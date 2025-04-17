@@ -3,8 +3,6 @@
 Un pequeño proyecto en JavaScript puro para practicar lógica, eventos DOM y manipulación del UI.  
 El objetivo es adivinar un número aleatorio entre 1 y 20 antes de que tu puntuación llegue a 0.
 
-![image](https://github.com/user-attachments/assets/9dd4abc6-dd57-441b-b4bc-b0e3954f5cf5)
-
 
 ## 🚀 Funcionalidades
 
